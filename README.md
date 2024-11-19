@@ -22,4 +22,4 @@ Khi bạn chọn **"Xem các bó hoa"**, tất cả các bó hoa đã được l
 1. **Clone repository**:
 
 ```bash
-git clone [https://github.com/Heliophile0208/Save_Database_In_File_Txt/tree/main]
+git clone https://github.com/Heliophile0208/Save_Database_In_File_Txt.git
